@@ -6,7 +6,7 @@ Cmdlets are not case sensitive.
 When adding more than one string then it should be separated by “;”.
 
 To check the latest version of PowerShell installed:
-$PSVersionTable
+$PSVersionTable 
 
 The Get-Help command can be used for checking all PowerShell cmdlets. 
 Get-Help
